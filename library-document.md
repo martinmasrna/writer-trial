@@ -2,7 +2,9 @@
 
 ## Why this exists
 
-Left alone, a model produces average output — the middle of everything it was trained on. Text placed in its context pulls it away from the mediocre average, toward the top 1% knowledge. The library is built on that lever: each document saves understanding that was expensive to reach, so it can steer every future session without being re-derived. A document is handed over cold — no author to ask, no feedback, one reading. Everything below follows from that. The document's job is to drastically improve the reader's output quality. The value of the document is the difference between work done with it and work done without it.
+Left alone, a model produces average output — the middle of everything it was trained on. Text placed in its context pulls it away from the mediocre average, toward the top 1% knowledge. The library is built on that lever: each document saves understanding that was expensive to reach, so it can steer every future session without being re-derived.
+
+A document is handed over cold — no author to ask, no feedback, one reading. Its reader is an intelligent human meeting the material for the first time, without the source. Everything below follows from that. The document's job is to drastically improve the reader's output quality. The value of the document is the difference between work done with it and work done without it.
 
 ## Principles
 
@@ -30,15 +32,10 @@ The most important idea comes first, and everything after supports or extends it
 
 The document has one organizing idea, stated at the top, and every section shows its connection to it. A well-ordered pile of facts fails this even when each fact is good.
 
-### 4. Optimize writing for information density
+### 4. Every sentence carries a claim or its reason
 
-Say what is true and what to do, directly. Every claim sits at the right level of generality — too specific and it breaks outside its example, too general and it says nothing. When unsure, pick the concrete version that implies the general one.
+A sentence that exists for effect gets rewritten into the claim it gestures at, or cut. The patterns to rewrite on sight:
 
-Write for an intelligent human reading the document for the first time, without the source. Introduce an idea before building on it; explain rather than allude. A sentence that only lands for someone who has read the source fails.
-
-Every sentence transfers a claim or its reason — a sentence that exists for effect gets rewritten into the claim it gestures at, or cut.
-
-The patterns to rewrite on sight:
 - rhetorical negation ("not X — Y")
 - fragment echoes ("Not diminished: silent.")
 - aphoristic closers
@@ -54,7 +51,18 @@ No filler:
 
 Flag uncertainty only where a claim is both genuinely disputed and important, in as few words as possible.
 
-### 5. Form
+### 5. Say it concretely, in everyday words
+
+Say what is true and what to do, directly. Introduce an idea before building on it; explain rather than allude — a sentence that only lands for someone who has read the source fails.
+
+Every claim sits at the right level of generality — too specific and it breaks outside its example, too general and it says nothing.
+
+- When unsure, pick the concrete version that implies the general one. This applies to phrasing, not just claims.
+- Write about the actual actors doing things, in everyday words: "the reader is subconsciously modeling the writer," not "the reader runs person-modeling machinery."
+- Keep processes as verbs. State the concrete fact directly; add an abstract restatement only if it says something the concrete sentence doesn't.
+- Coin a name or a term only when the document reuses it, and make the name a concrete action or image ("Read the file"), not an abstraction ("Absorb").
+
+### 6. Form
 
 Number what you enumerate — "two consequences" in prose becomes (1) and (2) on the page. Use bullets where items are parallel and short; use prose where reasoning connects them. Break paragraphs at idea boundaries, not at length. Use **bold** and *italics* for emphasis, whenever you see a good opportunity for it.
 
