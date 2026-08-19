@@ -11,17 +11,19 @@ A writer cannot read their own document cold: their context holds the source mat
 
 ## What to check
 
-**(1) Dead sentences.** For each passage, ask: would cutting this change what a reader produces? Flag generic advice below the top 1%, previews, summaries of what was just said, and anything that restates a neighboring sentence.
+**(1) Dead sentences** (principle 1). For each passage, ask: would cutting this change what a reader produces? Flag generic advice below the top 1%, and anything that restates a neighboring sentence.
 
-**(2) Claims without reasons.** Flag important claims where you can't tell why they hold or where they'd stop holding. Flag the reverse too: reasoning attached to obvious claims.
+**(2) Claims without reasons** (principle 2). Flag important claims where you can't tell why they hold or where they'd stop holding. Flag the reverse too: reasoning attached to obvious claims.
 
-**(3) Broken order.** Note the first point where you needed something the document hadn't given yet, and whether a reader who stopped after the opening section would leave with the core.
+**(3) Broken order or missing spine** (principle 3). Note the first point where you needed something the document hadn't given yet, and whether a reader who stopped after the opening section would leave with the core. Flag sections that don't visibly connect to the document's one organizing idea — a well-ordered pile of good facts fails.
 
-**(4) Bad statements.** Flag claims too general to constrain anything, rules too specific to survive outside their example, hedges on solid claims, and any sentence you had to read twice — report the re-read itself, not a guess at what was meant.
+**(4) Effect prose and filler** (principle 4). Flag any sentence whose removal loses no claim and no reason — it exists for effect, not transfer. The recurring shapes: rhetorical negation ("not X — Y"), fragment echoes, aphoristic closers, dramatic reversals. Also flag warm-up, previews, summaries of what was just said, and hedges on solid claims.
 
-**(5) Effect prose.** Flag any sentence whose removal loses no claim and no reason — it exists for effect, not transfer. The recurring shapes: rhetorical negation ("not X — Y"), fragment echoes, aphoristic closers, dramatic reversals.
+**(5) Abstract or opaque phrasing** (principle 5). Flag any sentence you had to read twice — report the re-read itself, not a guess at what was meant. Flag sentences that could be rewritten in everyday words about the concrete actors without losing a claim or a reason: invented abstract labels, processes turned into machinery-nouns, an abstract topic sentence restating the concrete sentence next to it. Flag claims too general to constrain anything and rules too specific to survive outside their example.
 
-**(6) Mechanical errors.** Typos, broken formatting, inconsistent terms. Lowest severity, still worth one line each.
+**(6) Form** (principle 6). Flag enumerations left in prose ("two consequences" with no (1) and (2)), bullets used where reasoning needed prose, and prose used where short parallel items needed bullets.
+
+**(7) Mechanical errors.** Typos, broken formatting, inconsistent terms. Lowest severity, still worth one line each.
 
 ## Output
 
