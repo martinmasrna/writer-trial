@@ -19,7 +19,9 @@ A writer cannot read their own document cold: their context holds the source mat
 
 **(4) Bad statements.** Flag claims too general to constrain anything, rules too specific to survive outside their example, hedges on solid claims, and any sentence you had to read twice — report the re-read itself, not a guess at what was meant.
 
-**(5) Mechanical errors.** Typos, broken formatting, inconsistent terms. Lowest severity, still worth one line each.
+**(5) Effect prose.** Flag any sentence whose removal loses no claim and no reason — it exists for effect, not transfer. The recurring shapes: rhetorical negation ("not X — Y"), fragment echoes, aphoristic closers, dramatic reversals.
+
+**(6) Mechanical errors.** Typos, broken formatting, inconsistent terms. Lowest severity, still worth one line each.
 
 ## Output
 
