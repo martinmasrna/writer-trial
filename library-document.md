@@ -28,11 +28,35 @@ So important claims keep their reasoning, compressed (one clause is often enough
 
 The most important idea comes first, and everything after supports or extends it — a reader who stops early still leaves with the best part. Later sections build only on earlier ones: the order follows how the ideas depend on each other, not how the material was found.
 
-### 4. Plain statements
+The document has one organizing idea, stated at the top, and every section shows its connection to it. A well-ordered pile of facts fails this even when each fact is good.
 
-Say what is true and what to do, directly. Every claim sits at the right level of generality — too specific and it breaks outside its example, too general and it says nothing. When unsure, pick the concrete version that implies the general one. Write for an intelligent reader with good general knowledge and none of your context: skip what they can figure out themselves, include what they can't.
+### 4. Optimize writing for information density
 
-No filler: no warm-up, no previews, no summaries of what was just said, no hedging on solid claims. Flag uncertainty only where a claim is both genuinely disputed and important, in as few words as possible.
+Say what is true and what to do, directly. Every claim sits at the right level of generality — too specific and it breaks outside its example, too general and it says nothing. When unsure, pick the concrete version that implies the general one.
+
+Write for an intelligent human reading the document for the first time, without the source. Introduce an idea before building on it; explain rather than allude. A sentence that only lands for someone who has read the source fails.
+
+Every sentence transfers a claim or its reason — a sentence that exists for effect gets rewritten into the claim it gestures at, or cut.
+
+The patterns to rewrite on sight:
+- rhetorical negation ("not X — Y")
+- fragment echoes ("Not diminished: silent.")
+- aphoristic closers
+- dramatic em-dash reversals.
+
+In every case, write the claim and its reason in one plain sentence instead.
+
+No filler:
+- no warm-up
+- no previews
+- no summaries of what was just said
+- no hedging on solid claims.
+
+Flag uncertainty only where a claim is both genuinely disputed and important, in as few words as possible.
+
+### 5. Form
+
+Number what you enumerate — "two consequences" in prose becomes (1) and (2) on the page. Use bullets where items are parallel and short; use prose where reasoning connects them. Break paragraphs at idea boundaries, not at length. Use **bold** and *italics* for emphasis, whenever you see a good opportunity for it.
 
 ## When it's done
 
